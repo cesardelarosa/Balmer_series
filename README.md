@@ -1,2 +1,2 @@
-# Lineas_de_Balmer
-Cálculo experimental de las longitudes de onda en el visible de una lámpara de hidrógeno
+# Balmer series
+Experimental determination of wavelengths in the visible spectrum of a hydrogen lamp
